@@ -1,11 +1,7 @@
 <?xml version="1.0"?>
 <question type="matching">
 	<name>
-<<<<<<< HEAD
-		<text>Demo question d'appariement?</text>
-=======
 		<text>Demo question d'appariement !</text>
->>>>>>> bb8f7f12cd82be3b88ee898384c04c5b240e23fa
 	</name>
 	<questiontext format="html">
 		<text>Quel est la bonne réponse ?</text>
